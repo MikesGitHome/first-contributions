@@ -166,6 +166,7 @@
 - [chqh](https://github.com/npnv)
 [Sanad Omar]
 - [こんにちは]
+- [Mike Roth](https://github.com/MikesGitHome)
 - [Ethan Seaholm](https://github.com/ethanseaholm)
 - [Test]
 - [viraldevpb](https://github.com/viraldevpb)
